@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "优化"
+title: "jvm"
 description: "Description of Project #1"
 header-img: "img/home-bg.jpg"
-category: 优化
+category: jvm
 ---
