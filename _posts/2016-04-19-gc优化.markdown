@@ -2,7 +2,7 @@
 layout:     post
 title:      gc优化
 #author:     Ahmet Cecen
-tags: 		gc 优化
+#tags: 		gc 优化
 subtitle:  	gc优化有必要？
 #category:  project1
 ---
