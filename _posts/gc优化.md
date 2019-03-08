@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      New Post
+author:     Ahmet Cecen
+tags: 		post template
+subtitle:  	Some Short Description of Post
+category:  project1
+---
+
 [](https://crowhawk.github.io/2017/08/21/jvm_4/)
 ## gc优化有必要？
 如果你在运行时没有手动设置内存大小并且打印出了过多的超时日志，那你就需要对系统进行GC优化。
