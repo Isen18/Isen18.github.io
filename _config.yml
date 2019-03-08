@@ -1,6 +1,6 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: 起风了
+description: "isen blog"
 url: "https://isen18.github.io"
 
 
@@ -14,8 +14,8 @@ logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  isen18
-project_repository: project-pages
-disqus_shortname: project-pages
+project_repository: isen
+disqus_shortname: isen
 g-analytics: UA-75881392-1
 altmetric: true
 
