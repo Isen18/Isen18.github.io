@@ -3,11 +3,27 @@ layout: page
 title: Search
 description: Search by keyword or tag.
 ---
+
+<style>
+  .button {
+    background-color: #696969;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+</style>
+
 <form action="get" id="site_search">
 <center>
-  <strong><a style="font-size:24px">Search:</a></strong>
+  <strong><a style="font-size:24px">Title:</a></strong>
   <input style="font-size:20px;" type="text" id="search_box">
-  <input style="font-size:20px;font-weight: bold;" type="submit" value=">">
+  <input class="button" type="submit" value=">">
 </center>
 </form>
 <br>
