@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Search
-description: Search by keyword or tag.
+description: Search by keyword of title.
 ---
 
 <style>
@@ -9,11 +9,10 @@ description: Search by keyword or tag.
     background-color: #696969;
     border: none;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     margin: 4px 2px;
     cursor: pointer;
   }
@@ -21,8 +20,7 @@ description: Search by keyword or tag.
 
 <form action="get" id="site_search">
 <center>
-  <strong><a style="font-size:24px">Title:</a></strong>
-  <input style="font-size:20px;" type="text" id="search_box">
+  <input style="font-size:20px;" type="text" placeholder="title" id="search_box">
   <input class="button" type="submit" value=">">
 </center>
 </form>
